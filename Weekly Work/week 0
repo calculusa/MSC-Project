@@ -1,1 +1,23 @@
+Literature reading 
+1. Ahmed 19
+  1) Neuroimaging 
+  MRI    
+  ASL-MRI
+  PET
+  SPECT
+ 2) Deep Learning Approaches for Dementia Diagnosis
+  CNN
+  ANN
+  SAE
+  DNN
+  DBN
+  rDA
+ 3) Conclusion
+  MRI (for AD )+ CNN(?)
+2. Pellegrini 18 
+  Data source: 
+  ADNI 
+  OASIS
+3. Lassila 18
+  1) Problems I have: Features, ASL-MRI, CBF
 

@@ -2,9 +2,14 @@
    https://reader.elsevier.com/reader/sd/pii/S1361841517300166?token=D4ED0866ED809F9A57A5B7EEF564F392BAC5AD311D2DFB9329D72DF40B7D5C25A834C314EA6A6B48A976023B65683A7E
 
 Tips:
-* Combines the two conceptually different methods of sparse regression and deep learning for Alzheimer s disease/mild cognitive impairment diagnosis and prognosis.
-* Sparse regression + CNN->DeepESRNet
-* The sparse regression model plays the role of predicting target outputs, which we consider as abstract feature representation, along with informative features selection.
+* Combines the two conceptually different methods of sparse regression and deep learning for Alzheimer s disease/mild cognitive 
+impairment diagnosis and prognosis.
+* Sparse regression + CNN ->DeepESRNet
+* The sparse regression model plays the role of predicting target outputs, which we consider as abstract feature representation, 
+along with informative features selection.
+
+Thinking:
+According to this literature, I am thinking about whether I can use simple sparse relevent model  
 
 2. Deep Learning of Texture and Structural Features for Multiclass Alzheimer’s Disease Classification
    https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7966129

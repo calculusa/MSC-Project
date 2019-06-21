@@ -1,0 +1,9 @@
+1. Learn about deep belief network.
+2. According to the paper Mufidah2017, imitating the structure of deep belief network, and implement the network.
+  1) pre-processing in this paper: voxel-based morphometric method
+  2) feature that used in this paper: VOI, 3D mask, gray matters volume
+  3) feature vector: MSD, VV
+  4) the structure of DBN used in this paper: 3 hidden layer, fine-tuned 3 parameters (epoch, momentum, number of nodes in each layer ) 
+  5) the aim for this paper is to classify the AD and the Health Contral
+  6) Input of this network: feature vector
+     Output of this network: AD or HC 

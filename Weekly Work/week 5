@@ -1,0 +1,13 @@
+1. Train the deep belief network, and test it.
+   1) Data set (provided by Dr. Lassila): 
+      33 AD
+      43 HC
+      28 MCI
+   2) Eveluation 
+      accuracy, sensitivity and specificity are calculated
+      Since the amount of data set is small, Dr. Lassila adviced me to calculated average accuracy.
+   3) Structure of net work 
+      104-25-25-25-2
+      104-25-25-25-3
+      104+137-25-25-25-2
+      104+137-25-25-25-3
